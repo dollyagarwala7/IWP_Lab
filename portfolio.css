@@ -1,0 +1,57 @@
+.body {
+    /* border-style: dashed; */
+    border-style: double;
+    border-color: black;
+    padding: 50px;
+    margin: 50px;
+    background-color: #f7efee;
+
+}
+
+.heading {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.p1 {
+    font-size: 20px;
+    /* font-weight: bolder; */
+}
+
+.img {
+    height: 100px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-style: dashed;
+    border-color: black;
+    padding: 2px;
+}
+
+.f1 {
+    background-color: antiquewhite;
+}
+
+.rightcon {
+    display: flex;
+    float: right;
+}
+
+/* .leftcon
+{
+    display: flex;
+    float: left;
+    flex-direction: column;
+}
+
+.main
+{
+    display: flex;
+    flex-direction: column;
+} */
+
+.main_div {
+    display: flex;
+    flex-direction: column;
+}
